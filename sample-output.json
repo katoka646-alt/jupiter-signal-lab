@@ -1,0 +1,177 @@
+{
+  "generatedAt": "2026-05-08T18:06:03Z",
+  "apiBase": "https://api.jup.ag",
+  "apisUsed": [
+    "tokens/v2/toptrending",
+    "tokens/v2/toptraded",
+    "price/v3"
+  ],
+  "signals": [
+    {
+      "symbol": "PUMP",
+      "name": "Pump",
+      "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "sources": [
+        "toptraded",
+        "toptrending"
+      ],
+      "usdPrice": 0.002132586755266527,
+      "priceChange24h": 7.609761250079732,
+      "liquidity": 22142169.275240436,
+      "holderCount": 118691,
+      "organicScore": 94.05961797459094,
+      "organicScoreLabel": "high",
+      "signalScore": 163.83,
+      "reasons": [
+        "organic buy pressure",
+        "deep liquidity",
+        "high organic score"
+      ]
+    },
+    {
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "mint": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "sources": [
+        "toptraded"
+      ],
+      "usdPrice": 0.2311393511628289,
+      "priceChange24h": 11.903140028160289,
+      "liquidity": 2605050.2743291897,
+      "holderCount": 844249,
+      "organicScore": 99.78571091796043,
+      "organicScoreLabel": "high",
+      "signalScore": 155.56,
+      "reasons": [
+        "organic buy pressure",
+        "deep liquidity",
+        "high organic score",
+        "holder drift negative"
+      ]
+    },
+    {
+      "symbol": "USDUC",
+      "name": "unstable coin",
+      "mint": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+      "sources": [
+        "toptrending"
+      ],
+      "usdPrice": 0.012929709177775734,
+      "priceChange24h": 14.249088884030083,
+      "liquidity": 596578.8140580842,
+      "holderCount": 16433,
+      "organicScore": 91.47236211425395,
+      "organicScoreLabel": "high",
+      "signalScore": 152.58,
+      "reasons": [
+        "organic buy pressure",
+        "high organic score",
+        "strong 1h momentum",
+        "holder drift negative"
+      ]
+    },
+    {
+      "symbol": "RIV",
+      "name": "RIV Coin",
+      "mint": "2bpT3ksMdwdZ6DuHyq3FDUr7HDwvZ5DRZoT1fUPALJaH",
+      "sources": [
+        "toptraded",
+        "toptrending"
+      ],
+      "usdPrice": 0.013179460502483484,
+      "priceChange24h": -69.25266372104143,
+      "liquidity": 350109.0695653283,
+      "holderCount": 5189,
+      "organicScore": 75,
+      "organicScoreLabel": "medium",
+      "signalScore": 151.97,
+      "reasons": [
+        "organic sell pressure",
+        "high organic score",
+        "strong 1h momentum",
+        "holder base expanding"
+      ]
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "mint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "sources": [
+        "toptraded",
+        "toptrending"
+      ],
+      "usdPrice": 2.4648464680173645,
+      "priceChange24h": 2.9492937547642697,
+      "liquidity": 65498634.95960814,
+      "holderCount": 649780,
+      "organicScore": 85.27599116765498,
+      "organicScoreLabel": "high",
+      "signalScore": 148.51,
+      "reasons": [
+        "deep liquidity",
+        "high organic score"
+      ]
+    },
+    {
+      "symbol": "cbBTC",
+      "name": "Coinbase Wrapped BTC",
+      "mint": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "sources": [
+        "toptraded"
+      ],
+      "usdPrice": 80199.45859330425,
+      "priceChange24h": 0.06763217730858762,
+      "liquidity": 25346908.96799423,
+      "holderCount": 67111,
+      "organicScore": 93.431901410613,
+      "organicScoreLabel": "high",
+      "signalScore": 145.64,
+      "reasons": [
+        "organic sell pressure",
+        "deep liquidity",
+        "high organic score",
+        "holder base expanding"
+      ]
+    },
+    {
+      "symbol": "HYPE",
+      "name": "HYPE",
+      "mint": "98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g",
+      "sources": [
+        "toptraded",
+        "toptrending"
+      ],
+      "usdPrice": 43.17395767580257,
+      "priceChange24h": 1.6089866302035922,
+      "liquidity": 2971661.6879600217,
+      "holderCount": 10852,
+      "organicScore": 86.230053159057,
+      "organicScoreLabel": "high",
+      "signalScore": 140.54,
+      "reasons": [
+        "organic buy pressure",
+        "deep liquidity",
+        "high organic score"
+      ]
+    },
+    {
+      "symbol": "JLP",
+      "name": "Jupiter Perps",
+      "mint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+      "sources": [
+        "toptraded"
+      ],
+      "usdPrice": 4.051477872225321,
+      "priceChange24h": 1.5146844548432723,
+      "liquidity": 11255835.415401693,
+      "holderCount": 91305,
+      "organicScore": 90.22312247477838,
+      "organicScoreLabel": "high",
+      "signalScore": 139.41,
+      "reasons": [
+        "deep liquidity",
+        "high organic score"
+      ]
+    }
+  ]
+}
