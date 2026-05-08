@@ -30,11 +30,11 @@ Optional: not deployed yet. Repo README includes run instructions and sample out
 
 ## Did you submit this project to the official Frontier Hackathon on Colosseum? (Yes/No)
 
-TODO: user confirmation required. Current known status from agent side: not submitted by agent because Colosseum requires human account/login.
+No
 
 ## Link to your project's Colosseum profile
 
-TODO: required by Superteam listing. Create/submit project at https://arena.colosseum.org/hackathon/frontier or https://colosseum.com/frontier, then paste the project profile link here.
+BLOCKED: required by Superteam listing, but user confirmed the project has not been submitted to Colosseum yet. Create/submit project at https://arena.colosseum.org/hackathon/frontier or https://colosseum.com/frontier, then paste the project profile link here.
 
 ## Link to your Loom / Demo Video
 
