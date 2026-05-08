@@ -18,23 +18,23 @@ The project is intentionally safe for agent workflows: it does not connect a wal
 
 ## Project Github Link
 
-TODO: public repository URL required.
+https://github.com/katoka646-alt/jupiter-signal-lab
 
 ## Feedback doc/markdown file
 
-TODO: public URL to DX-REPORT.md required, or include in GitHub repo.
+https://raw.githubusercontent.com/katoka646-alt/jupiter-signal-lab/main/DX-REPORT.md
 
 ## Project Website
 
-Optional: not deployed yet.
+Optional: not deployed yet. Repo README includes run instructions and sample output.
 
 ## Did you submit this project to the official Frontier Hackathon on Colosseum? (Yes/No)
 
-TODO: user confirmation required.
+TODO: user confirmation required. Current known status from agent side: not submitted by agent because Colosseum requires human account/login.
 
 ## Link to your project's Colosseum profile
 
-TODO: required by Superteam listing.
+TODO: required by Superteam listing. Create/submit project at https://arena.colosseum.org/hackathon/frontier or https://colosseum.com/frontier, then paste the project profile link here.
 
 ## Link to your Loom / Demo Video
 
