@@ -1,0 +1,13 @@
+ffconcat version 1.0
+file 'video_frames/demo_01.png'
+duration 11
+file 'video_frames/demo_02.png'
+duration 12
+file 'video_frames/demo_03.png'
+duration 13
+file 'video_frames/demo_04.png'
+duration 9
+file 'video_frames/demo_05.png'
+duration 10
+file 'video_frames/demo_05.png'
+duration 1

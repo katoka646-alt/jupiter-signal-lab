@@ -30,11 +30,11 @@ Optional: not deployed yet. Repo README includes run instructions and sample out
 
 ## Did you submit this project to the official Frontier Hackathon on Colosseum? (Yes/No)
 
-No
+Yes
 
 ## Link to your project's Colosseum profile
 
-BLOCKED: required by Superteam listing, but user confirmed the project has not been submitted to Colosseum yet. Create/submit project at https://arena.colosseum.org/hackathon/frontier or https://colosseum.com/frontier, then paste the project profile link here.
+https://arena.colosseum.org/projects/explore/jupiter-signal-lab-1
 
 ## Link to your Loom / Demo Video
 

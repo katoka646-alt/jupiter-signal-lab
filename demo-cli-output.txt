@@ -1,0 +1,23 @@
+Jupiter Signal Lab — read-only token intelligence
+Generated: 2026-05-08T19:47:44Z
+
+01. Goblin — GoblinCoin
+    score=156.54 price=$0.00827378 24h=142.91% sources=toptraded,toptrending
+    mint=3KHMZhpthXuiCcgfTv7vVu9PpEz64KAEURFwi6Lopump
+    why: high organic score, strong 1h momentum, holder base expanding
+02. PUMP — Pump
+    score=154.57 price=$0.0021528 24h=7.52% sources=toptraded
+    mint=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn
+    why: organic buy pressure, deep liquidity, high organic score, holder base expanding
+03. JLP — Jupiter Perps
+    score=148.57 price=$4.07006 24h=2.15% sources=toptrending
+    mint=27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4
+    why: organic buy pressure, deep liquidity, high organic score
+04. cbBTC — Coinbase Wrapped BTC
+    score=147.03 price=$80105.9 24h=0.01% sources=toptraded
+    mint=cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij
+    why: organic buy pressure, deep liquidity, high organic score, holder base expanding
+05. TROLL — TROLL
+    score=139.6 price=$0.0541614 24h=10.26% sources=toptrending
+    mint=5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2
+    why: organic buy pressure, deep liquidity, high organic score, strong 1h momentum

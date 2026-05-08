@@ -1,0 +1,7 @@
+This is Jupiter Signal Lab, a read-only Solana market intelligence prototype built with Jupiter Tokens API V2 and Price API V3.
+
+The tool fetches top-trending and top-traded tokens, deduplicates mints, pulls fresh prices, and ranks each token with explainable signals like liquidity, organic score, holder count, buy and sell pressure, momentum, and holder drift.
+
+Here is the live CLI output. Each token includes a score, price, 24-hour change, source, mint address, and a short explanation of why it ranked.
+
+The important part is safety. There is no wallet connection, no signing, no swaps, and no automated trading. Jupiter Signal Lab is a research layer that helps builders understand market signals before adding any execution flow.

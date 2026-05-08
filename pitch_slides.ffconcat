@@ -1,0 +1,11 @@
+ffconcat version 1.0
+file 'video_frames/pitch_01.png'
+duration 12
+file 'video_frames/pitch_02.png'
+duration 11
+file 'video_frames/pitch_03.png'
+duration 12
+file 'video_frames/pitch_04.png'
+duration 12
+file 'video_frames/pitch_04.png'
+duration 1

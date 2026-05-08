@@ -1,0 +1,5 @@
+We built Jupiter Signal Lab because most token dashboards show movement without enough reasoning. For builders and AI agents, that is risky: a trending token should not automatically become an executed trade.
+
+Our project creates a read-only intelligence layer on top of Jupiter APIs. It uses Tokens API V2 and Price API V3 to rank Solana tokens with explainable signals, then clearly shows why each token looks interesting or risky.
+
+We are approaching DeFi automation from a safety-first agent perspective. Before agents execute swaps or trigger orders, they need transparent research, scoring, and human-readable reasoning. Jupiter Signal Lab is that first safe step.
